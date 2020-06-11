@@ -1,1 +1,2 @@
 # enhance
+Small project to componse functions together recursively, right to left, with the last parameter being a value to be manipulated. Each funcion munst return a falu that will be the input of the left (to the left) function.
